@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+wiki_links.csv
+/wiki_links.csv
+./wiki_links.csv
